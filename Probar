@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "Nueva Actualización Disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -14,12 +14,12 @@
   ],
   "Servers": [
     {
-      "Name": "🇵🇾",
+      "Name": "Tigo🇵🇾",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "d11eprgq67ogfm.cloudfront.net",
+      "ServerIP": "",
       "CheckUser": "",
-      "ServerPort": "22",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -38,11 +38,11 @@
   ],
   "Networks": [
     {
-      "Name": " py",
-      "FLAG": "tigo py",
+      "Name": "Tigo py",
+      "FLAG": "py",
       "Payload": "OPTIONS / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: [rotate=d11eprgq67ogfm.cloudfront.net;dmwqtbcmr9wng.cloudfront.net;d2rxvndiu79a46.cloudfront.net;d13n9i9rmoqinm.cloudfront.net;d1ghrkj5zxezji.cloudfront.net;dgh3e0l29aybl.cloudfront.net;d1jdm7ay80s1ma.cloudfront.net;dgh3e0l29aybl.cloudfront.net] [crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
+      "TlsIP": "d11eprgq67ogfm.cloudfront.net",
       "ProxyIP": "www.flow.com.ar",
       "ProxyPort": "80",
       "Info": "Proxy"
