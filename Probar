@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "py.png",
       "ServerIP": "mio.servicios1.online",
-      "CheckUser": "",
+      "CheckUser": "premium",
       "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
