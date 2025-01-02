@@ -1,33 +1,34 @@
 {
-  "Version": "13",
-  "ReleaseNotes": "Nueva Actualización Disponible",
+  "Version": "2",
+  "ReleaseNotes": "",
+  "Sms": "Nueva Actualización Disponeble",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
-  "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
   "EmailFeedback": "",
   "UrlContato": "",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "videoUrl": "",
+  "logoonline": "",
+  "fundoonline": "",
+  "fundoDoLogOnline": "",
+  "rodapeonline": "",
+  "UrlTermos": "",
   "CheckUser": "",
   "Udp": [
     {
       "Porta": "7300"
+    },
+    {
+      "Porta": "7100"
+    },
+    {
+      "Porta": "7200"
     }
   ],
+  "UdpPort": "7300;7100;7200",
   "Servers": [
     {
-      "Name": "Tigo🇵🇾",
+      "Name": "Tigo py",
       "TYPE": "premium",
-      "FLAG": "py.png",
-      "ServerIP": "mio.servicios1.online",
-      "CheckUser": "premium",
-      "ServerPort": "80",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-   {
-      "Name": "🇦🇷",
-      "TYPE": "premium",
-      "FLAG": "ar.png",
+      "FLAG": "py",
       "ServerIP": "mio.servicios1.online",
       "CheckUser": "",
       "ServerPort": "22",
@@ -38,24 +39,14 @@
   ],
   "Networks": [
     {
-      "Name": "Tigo py",
+      "Name": "Tigo",
       "FLAG": "py",
       "Payload": "CONNECT / HTTP/1.1[crlf]Host: sdk.iad-03.braze.com[crlf]miluu: 100-continue[lf][lf][split][lf][lf]PIN- / HTTP/1.1[crlf]Host: mio.servicios1.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
+      "TlsIP": "[app_host]",
       "ProxyIP": "sdk.iad-03.braze.com",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-      "Name": " AR",
-      "FLAG": "movistar",
-      "Payload": "",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+    }
   ]
 }
