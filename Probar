@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "4",
   "ReleaseNotes": "Nueva Actualización Disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -17,7 +17,7 @@
       "Name": "Tigo🇵🇾",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "",
+      "ServerIP": "d11eprgq67ogfm.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "80",
       "SSLPort": "443",
