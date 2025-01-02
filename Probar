@@ -1,5 +1,5 @@
 {
-  "Version": "11",
+  "Version": "12",
   "ReleaseNotes": "Nueva Actualización Disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -45,7 +45,7 @@
       "TlsIP": "sdk.iad-03.braze.com",
       "ProxyIP": "",
       "ProxyPort": "80",
-      "Info": "Tlsws"
+      "Info": "Proxy"
     },
     {
       "Name": " AR",
