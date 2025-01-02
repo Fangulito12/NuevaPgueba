@@ -1,1 +1,61 @@
-hola
+{
+  "Version": "2",
+  "ReleaseNotes": "Nueva Actualización Disponible",
+  "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
+  "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "🇵🇾",
+      "TYPE": "premium",
+      "FLAG": "py.png",
+      "ServerIP": "d11eprgq67ogfm.cloudfront.net",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+   {
+      "Name": "🇦🇷",
+      "TYPE": "premium",
+      "FLAG": "ar.png",
+      "ServerIP": "",
+      "CheckUser": "",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": " py",
+      "FLAG": "tigo py",
+      "Payload": "OPTIONS / HTTP/1.1[crlf]Host: www.personal.com.ar[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: [rotate=d11eprgq67ogfm.cloudfront.net;dmwqtbcmr9wng.cloudfront.net;d2rxvndiu79a46.cloudfront.net;d13n9i9rmoqinm.cloudfront.net;d1ghrkj5zxezji.cloudfront.net;dgh3e0l29aybl.cloudfront.net;d1jdm7ay80s1ma.cloudfront.net;dgh3e0l29aybl.cloudfront.net] [crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "www.flow.com.ar",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": " AR",
+      "FLAG": "movistar",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+  ]
+}
