@@ -1,5 +1,5 @@
 {
-  "Version": "4",
+  "Version": "5",
   "ReleaseNotes": "Nueva Actualización Disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -19,7 +19,7 @@
       "FLAG": "py.png",
       "ServerIP": "d11eprgq67ogfm.cloudfront.net",
       "CheckUser": "",
-      "ServerPort": "80",
+      "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
