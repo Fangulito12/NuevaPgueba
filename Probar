@@ -17,9 +17,9 @@
       "Name": "Tigo🇵🇾",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "",
+      "ServerIP": "mio.servicios1.online",
       "CheckUser": "",
-      "ServerPort": "90",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
