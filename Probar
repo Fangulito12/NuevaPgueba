@@ -1,5 +1,5 @@
 {
-  "Version": "8",
+  "Version": "9",
   "ReleaseNotes": "Nueva Actualización Disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -40,9 +40,9 @@
     {
       "Name": "Tigo py",
       "FLAG": "py",
-      "Payload": "OPTIONS / HTTP/1.1[crlf]Host: sdk.iad-03.braze.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: [rotate=mio.servicios1.online;dmwqtbcmr9wng.cloudfront.net;d2rxvndiu79a46.cloudfront.net;d13n9i9rmoqinm.cloudfront.net;d1ghrkj5zxezji.cloudfront.net;dgh3e0l29aybl.cloudfront.net;d1jdm7ay80s1ma.cloudfront.net;dgh3e0l29aybl.cloudfront.net] [crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "CONNECT / HTTP/1.1[crlf]Host: sdk.iad-03.braze.com[crlf]miluu: 100-continue[lf][lf][split][lf][lf]PIN- / HTTP/1.1[crlf]Host: mio.servicios1.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
+      "TlsIP": "mio.servicios1.online",
       "ProxyIP": "sdk.iad-03.braze.com",
       "ProxyPort": "80",
       "Info": "Proxy"
