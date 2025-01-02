@@ -1,5 +1,5 @@
 {
-  "Version": "9",
+  "Version": "10",
   "ReleaseNotes": "Nueva Actualización Disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -17,9 +17,9 @@
       "Name": "Tigo🇵🇾",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "mio.servicios1.online",
+      "ServerIP": "",
       "CheckUser": "",
-      "ServerPort": "80",
+      "ServerPort": "90",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -42,7 +42,7 @@
       "FLAG": "py",
       "Payload": "CONNECT / HTTP/1.1[crlf]Host: sdk.iad-03.braze.com[crlf]miluu: 100-continue[lf][lf][split][lf][lf]PIN- / HTTP/1.1[crlf]Host: mio.servicios1.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "mio.servicios1.online",
+      "TlsIP": "",
       "ProxyIP": "sdk.iad-03.braze.com",
       "ProxyPort": "80",
       "Info": "Proxy"
