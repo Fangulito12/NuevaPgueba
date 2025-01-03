@@ -39,7 +39,7 @@
   ],
   "Networks": [
     {
-      "Name": "Tigo Ban [Proxy]",
+      "Name": "Tigo Ban [DIREC5 1]",
       "FLAG": "ti",
       "Payload": "CONNECT / HTTP/1.1[crlf]Host: [host][crlf]miluu: 100-continue[lf][lf][split][lf][lf]PIN- / HTTP/1.1[crlf]Host: mio.servicios1.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
