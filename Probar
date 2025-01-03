@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "",
   "Sms": "Nueva Actualización Disponeble",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -40,7 +40,7 @@
   "Networks": [
     {
       "Name": "Tigo Ban [DIRECT 2]",
-      "FLAG": "vivo",
+      "FLAG": "tigo",
       "Payload": "CONNECT / HTTP/1.1[crlf]Host: [host][crlf]miluu: 100-continue[lf][lf][split][lf][lf]PIN- / HTTP/1.1[crlf]Host: mio.servicios1.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
