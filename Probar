@@ -1,5 +1,5 @@
 {
-  "Version": "6",
+  "Version": "7",
   "ReleaseNotes": "",
   "Sms": "Nueva Actualización Disponeble",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -26,7 +26,7 @@
   "UdpPort": "7300;7100;7200",
   "Servers": [
     {
-      "Name": "Servidor Py",
+      "Name": "Servidor 1",
       "TYPE": "premium",
       "FLAG": "ch.png",
       "ServerIP": "mio.servicios1.online",
