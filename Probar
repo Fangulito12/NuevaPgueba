@@ -1,5 +1,5 @@
 {
-  "Version": "5",
+  "Version": "6",
   "ReleaseNotes": "",
   "Sms": "Nueva Actualización Disponeble",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/NuevaPgueba/refs/heads/main/Probar",
@@ -28,7 +28,7 @@
     {
       "Name": "Servidor Py",
       "TYPE": "premium",
-      "FLAG": "py.png",
+      "FLAG": "ch.png",
       "ServerIP": "mio.servicios1.online",
       "CheckUser": "",
       "ServerPort": "22",
