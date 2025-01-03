@@ -40,7 +40,7 @@
   "Networks": [
     {
       "Name": "Tigo Ban [Proxy]",
-      "FLAG": "tigo",
+      "FLAG": "ti.png",
       "Payload": "CONNECT / HTTP/1.1[crlf]Host: [host][crlf]miluu: 100-continue[lf][lf][split][lf][lf]PIN- / HTTP/1.1[crlf]Host: mio.servicios1.online[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
